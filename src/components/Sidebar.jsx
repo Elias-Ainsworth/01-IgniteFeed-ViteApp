@@ -7,7 +7,7 @@ export function Sidebar() {
     <aside className={styles.sidebar}>
       <img 
         className={styles.cover}
-        src="http://pm1.narvii.com/7319/63b3c73f7c7a29ce24f9d85d32fae2af3bf1b8bbr1-268-264v2_00.jpg" 
+        src="https://64.media.tumblr.com/d6e125b5699109b8f614644011283b08/tumblr_inline_p2szrimhJf1rfreo7_1280.jpg" 
       />
       <div className={styles.profile}>
         <img 
@@ -15,7 +15,7 @@ export function Sidebar() {
           src="https://github.com/Elias-Ainsworth.png" 
         />
 
-        <strong>Lucario Thailor</strong>
+        <strong>Elias Ainsworth</strong>
         <span>Web Developer</span>
       </div>
 
